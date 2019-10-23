@@ -29,7 +29,7 @@ setup(
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
-        'Django==1.10.3',
+        'Django==1.11.23',
         'django-celery==3.1.17',
         'celery==3.1.25',
         'pymongo==3.3.1',
