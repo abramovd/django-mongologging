@@ -31,7 +31,7 @@ setup(
     install_requires=[
         'Django==1.10.3',
         'django-celery==3.1.17',
-        'celery==3.1.25',
+        'celery==5.2.2',
         'pymongo==3.3.1',
     ]
 )
